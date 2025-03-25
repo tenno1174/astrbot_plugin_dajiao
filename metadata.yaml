@@ -1,0 +1,6 @@
+name: 打胶 # 这是你的插件的唯一识别名。
+desc: 这是 AstrBot 的插件，让你在群里打胶。 # 插件简短描述
+help:  /打胶 # 插件的帮助信息
+version: v1.0 # 插件版本号。格式：v1.1.1 或者 v1.1
+author: 灵煞 # 作者
+repo: https://github.com/Soulter/helloworld # 插件的仓库地址
